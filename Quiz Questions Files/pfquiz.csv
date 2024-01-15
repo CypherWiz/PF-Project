@@ -1,0 +1,10 @@
+What is the correct way to declare a constant in C?,const int x = 5;,int const x = 5;,constant x = 5;,x = 5;,const int x = 5;
+What is the purpose of the break statement in C?,Exits the loop or switch,Skips the next iteration,Jumps to a specific label,None,Exits the loop or switch 
+Which function is used to allocate memory dynamically in C?,malloc(),calloc(),realloc(),All,All
+What is the size of the char data type in C?,1 byte,2 byte,4 byte,Compiler dependent,1 byte
+What is the purpose of the typedef keyword in C?,Defines a new data type,Declares a variable,Creates a pointer,None of the above,Defines a new data type
+In C what is the purpose of the #include directive?,Includes a header file,Declares a variable,Defines a macro,Creates a function prototype,Includes a header file
+Which of the following is the correct syntax for the if statement in C?,if x > 0 then,if (x > 0) {,if x > 0 {,if x > 0 endif,if (x > 0) {
+What does the fgets() function in C do?,Reads a line ,Reads a character ,Reads a word ,Reads an integer ,Reads a line 
+"What is the purpose of the ""free"" function in C?",Releases a file lock,Frees allocated memory,Closes a file,Frees CPU resources,Frees allocated memory
+"In programming what is the purpose of a ""function""?",To store data,To create loops,To perform a specific task or operation,To display output,To perform a specific task or operation
